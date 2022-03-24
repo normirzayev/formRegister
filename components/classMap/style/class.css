@@ -1,0 +1,25 @@
+li{
+	width: 90%;
+	display: flex;
+	justify-content: space-between;
+	border-bottom:1px solid silver;
+	padding-bottom: 5px;
+	padding-top: 10px;
+}
+button{
+	border: none;
+	outline: none;
+	background-color: red;
+	padding: 5px 10px;
+	border-radius: 5px;
+	color: white;
+}
+.box{
+	width: 40%;
+	text-align: center;
+	margin: 0 auto;
+	border-radius: 5px;
+	box-shadow: 0 0 10px 5px rgb(83, 83, 83);
+	height: 50%;
+	background-color: white;
+}

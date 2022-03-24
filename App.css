@@ -1,0 +1,13 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	box-sizing: border-box;
+}
+.App{
+	max-width: 1400px;
+	margin: auto;
+	height: 100vh;
+	background:linear-gradient(120deg, red, blue);
+	padding: 20px;
+}
